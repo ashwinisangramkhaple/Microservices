@@ -1,0 +1,8 @@
+my:
+ greeting: Hello World
+ list:
+  values: One, Two, Three
+  
+management.endpoints.web.exposure.include: "*"
+
+#spring.cloud.config.uri: http://localhost:8888
